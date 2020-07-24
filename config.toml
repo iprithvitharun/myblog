@@ -1,8 +1,8 @@
 baseURL = "https://admiring-dijkstra-8a2945.netlify.app/"
 languageCode = "en-us"
-title = "Archie"
+title = "Prithvi | UX Writer"
 theme="archie-master"
-copyright = "© Athul"
+copyright = "© Prithvi"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -12,22 +12,23 @@ pygmentscodefencesguesssyntax = true
 	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
 
 [[params.social]]
-name = "GitHub"
-icon = "github"
-url = "https://github.com/athul/archie"
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/prithvi-tharun/"
 
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://github.com/athulcajay/"
+url = "https://twitter.com/iprithvitharun"
 
 [[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
+name = "GitHub"
+icon = "github"
+url = "https://github.com/iprithvitharun/"
+
 [[menu.main]]
-name = "Home"
-url = "/"
+name = "Portfolio"
+url = "/portfolio"
 weight = 1
 
 [[menu.main]]
