@@ -9,7 +9,7 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="auto"
 	featherIconsCDN=true
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "I help user interface speak and make products better with language. I’m based in Bangalore, India and build products for the world.  My background combines knowledge from Computer Science Engineering, Human Internet Interaction, and Psychology."
 
 [[params.social]]
 name = "LinkedIn"

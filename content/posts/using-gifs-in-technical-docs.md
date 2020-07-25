@@ -3,7 +3,6 @@ title: "Using GIFs in Technical Documentation"
 date: 2020-07-23
 description: "GIFs are a great addition to user guides, FAQs, etc. If used unmindfully then the document can fail at its objective."
 tags: [technical writing]
-thumbnail: "/frame-15.png"
 ---
 
 ![tech-docs-process](/frame-15.png)
