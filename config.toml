@@ -1,6 +1,6 @@
 baseURL = "https://admiring-dijkstra-8a2945.netlify.app/"
 languageCode = "en-us"
-title = "Prithv | UX Writer"
+title = "Prithvi | UX Writer"
 theme="archie-master"
 copyright = "© Prithvi"
 pygmentsstyle = "monokai"
@@ -26,10 +26,10 @@ name = "GitHub"
 icon = "github"
 url = "https://github.com/iprithvitharun/"
 
-[[menu.main]]
-name = "Portfolio"
-url = "/portfolio"
-weight = 1
+[[params.social]]
+name = "Spotify playlist"
+icon = "music"
+url = "https://open.spotify.com/playlist/0qakZCBgqW7SFHPWjpHDbj?si=_sytoc1CQxeXUrLYio3iEg"
 
 [[menu.main]]
 name = "All posts"

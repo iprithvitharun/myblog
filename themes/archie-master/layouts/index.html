@@ -8,9 +8,14 @@
 			<main class="list">
 				<div class="site-description">
 					{{- if isset .Site.Params "subtitle" -}}
-					<p>{{ .Site.Params.Subtitle | markdownify }}</p>
+					<p>{{ .Site.Params.Subtitle | markdownify }}
+					</p>
 					{{- end -}}
 				</div>
+				<div>{{- range $index, $key := .Site.Params.Social -}}
+					<a class="soc no-border" href="{{ $key.url }}" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>
+					{{- end -}}
+				</div> 
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}

@@ -27,6 +27,10 @@ body{
   color: #fff;
 }
 
+.no-border{
+  border: 0px solid red;
+}
+
 p {
   font-family: 'Inter', monospace;
   line-height: 1.7;
