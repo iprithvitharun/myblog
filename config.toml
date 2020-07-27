@@ -9,7 +9,7 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="auto"
 	featherIconsCDN=true
-	subtitle = "I help user interface speak and make products better with language. I’m based in Bangalore, India and build products for the world.  My background combines knowledge from Computer Science Engineering, Human Internet Interaction, and Psychology."
+	subtitle = "👋 Hello. I'm a writer who designs. I strive to create clear, obvious, and humane user experience through microcopies. Currently, I’m at [Whatfix](https://open.spotify.com/playlist/0qakZCBgqW7SFHPWjpHDbj?si=_sytoc1CQxeXUrLYio3iEg), Bangalore focused on creating UX that scale to global products. This website is a home for things I’ve tried and how I tried."
 
 [[params.social]]
 name = "LinkedIn"
