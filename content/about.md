@@ -1,21 +1,21 @@
 +++
-title = "About"
+title = "About your friendly neighbourhood writer"
 description = "My journey from a Developer to Technical Writer to UX Writer."
 date = "2020-07-23"
 +++
 
-## Story of my life
-
 ![Profile pic](/dp_trans_wide.png)
 
-I am a UX/Technical Writer now. But years ago I had no idea what I was going to do after graduating Computer Science and Engineering. Tbh, I wasn’t good at coding. I only took Computer Science because I loved video games. I loved it so much I had a site (techbookmark.com) dedicated for gaming where I wrote all about gaming—tips and tricks, downloading and installing games, shortcuts, maps, etc.
+Over the last 5 years, I’ve been improving user experiences through words in the form of Technical and UX Writing. Currently, I’m at Whatfix building experiences used by some of the most prominent Fortune 500 companies every day. 
 
-The final year came and everyone was busy preparing for campus recruitment. I, on the other hand, with 5.5 CGPA wasn’t eligible for any interviews. Then, Zoho came for Campus Recruitment looking for a Technical Writer with no restrictions. 
+Previously, I was at Zoho where I started my career as a Technical Writer for Zoho Finance Suite.
 
-I didn’t know what Technical Writer did but it was the only interview I was eligible for so I gave it a try. Only after the first round, I realized I’ve been a Technical Writer all along.
+Outside work, I am an avid gamer and occasionally contribute to Open Source writing projects on [GitHub](https://github.com/iprithvitharun/).
 
-See, the gaming site I had was my portfolio. This gave me confidence. With all those years of gaming and troubleshooting various things, I knew how to get around things and document them which coincidentally was a skill that Technical Writer. 
+> > I believe in moving at a sustainable pace and fixing what’s broken.
 
-Finally, after 8 rounds of intense writing and personal interviews, I joined at Zoho.
+Fundamentally, I'm passionate about connecting people with technology in the most obvious and unobtrusive way. I've worked on multiple side-projects like,
 
-This was five years ago. I can tell you for sure that being a Technical Writer challenges you and teaches you new things every day and I’m loving every bit of it. For me, my career is like a long-branched tree where the main trunk is Technical Writing.
+**[GoTo Tab](https://www.producthunt.com/posts/goto-tab-1)** - A browser extension with over 7K active users that helps manage, search and jump to the tab on a tap of a shortcut. Being a tab-junkie myself, this was developed out of frustration as none of the extensions out there solved it. So, we ([Praveen](https://www.linkedin.com/in/praveen-kumar-5b656090/), [Pradeep](https://www.linkedin.com/in/pradesep6/) and I) decided to solve it the way we see the future.
+
+**[remoteapps.today](https://www.remoteapps.today/)** - A static site with a list of all the best apps in multiple categories. Every app on the list is personally used by us extensively and has a FREE plan. Only the worthy have passed. Made on a boring weeekend with [Pradeep](https://www.linkedin.com/in/pradesep6/).
