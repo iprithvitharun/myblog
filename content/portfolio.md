@@ -20,3 +20,9 @@ To design an effective snackbar, I decided to convey the action status as early 
 When we first introduced on-premise deployment for enterprise customers, I wanted to explain the feature in as few words as possible. After trying out a few versions and research we landed on this one. Though the copy isn’t as simple as I wanted, it was necessary to include  technical terms to get the point across.
 
 ![port 2](/port-2.png)
+
+### Continuity using words
+
+To ensure continuity, I used the same word "User Action" that led to the creation process in the first place.
+
+![continuity-using-words](/continuity-using-words.png)
