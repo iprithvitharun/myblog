@@ -26,3 +26,9 @@ When we first introduced on-premise deployment for enterprise customers, I wante
 To ensure continuity, I used the same word "User Action" that led to the creation process in the first place.
 
 ![continuity-using-words](/continuity-using-words.png)
+
+### Error message
+
+Feedback from customers showed that they weren't to find the exact mistake when naming the variables. The new error message involved collaborating with the developers to get the list of guidelines and a complete rework.
+
+![error-variable-custom](/error-variable-custom.png)
