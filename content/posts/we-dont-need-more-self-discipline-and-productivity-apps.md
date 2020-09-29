@@ -1,14 +1,14 @@
 ---
 title: "We don’t need more self-discipline and productivity apps"
 date: 2020-07-30
-description: "Many people think Technical Writers develop user manuals which requires no creativity. I’d say it is an oversimplification."
+description: "Today, many of our choices are motivated by social comparison. We see something better and instantly believe that we need it. Especially if it can be attained for free".
 tags: [productivity]
 ---
 We all see a lot of posts about self-discipline. Go to any social media sites like LinkedIn, Twitter, YouTube, etc. and we can see people talking about how they are disciplined more than ever using an XYZ method and how it made them X-times productive.
 
-All these posts put a lot of pressure on us and makes us want more discipline. Today, many of our choices are motivated by social comparison. We see something better and instantly believe that we need it. Especially if it can be attainned for free.
+All these posts put a lot of pressure on us and make us want more discipline. Today, many of our choices are motivated by social comparison. We see something better and instantly believe that we need it. Especially if it can be attained for free.
 
-I've been down this road many times. I'd see productivity or daily routine video and instantly go like, "If all it needs is our hard work then I can do it. I can be as productive as them." (Eye of Tiger playing in the background).
+I've been down this road many times. I'd see productivity or daily routine video and instantly go like, "If all it needs is our hard work then I can do it. I can be as productive as them". (Eye of Tiger playing in the background).
 
 But had it involved any money, I'd have paused, taken a step back and thought if I really needed it. Well, we are only humans.
 
