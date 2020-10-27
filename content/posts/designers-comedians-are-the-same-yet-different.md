@@ -5,7 +5,7 @@ description: "Designers and Stand Up Comedians are from different lifestyles and
 tags: [design]
 ---
 
-![designer-comedians](/designer-comedians.png)
+![hacktoberfest-2020-spam](/hacktoberfest-2020-spam.jpg)
 
 Designers and Stand Up Comedians are from different lifestyles and industries. But they are more closely related than you think.
 

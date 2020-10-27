@@ -2,7 +2,7 @@
 title: "Technical Writers thrive on creativity"
 date: 2020-07-24
 description: "Many people think Technical Writers develop user manuals which requires no creativity. I’d say it is an oversimplification."
-tags: [technical writing]
+tags: [technicalwriting]
 ---
 
 Many people think Technical Writers develop user manuals which requires no creativity. I’d say it is an oversimplification.
