@@ -13,16 +13,16 @@ But this year, a lot of people started making changes to the code which serves n
 
 So, when project maintainers saw my changes along with the other so-called fixes they believed I was spamming them.  I cannot blame the project maintainers. They are receiving hundreds of such useless requests.
 
+I had to explain and convince them by referring to my past contributions.
+
 One such instance is when I noticed an inconsistent use of 'Log in' at different places. So, I changed it all to “Log in.” The next day, I was called a spammer.
 
 Another instance is where I removed the word “successfully” from snack bar messages to reduce tautology. Again, I was called a spammer.
-
-Even though I added the explanations project maintainers didn’t have enough time to read. I had to explain and convince them by referring to my past contributions.
 
 If a seasoned contributor like me can have a hard time then I cannot comprehend what first-time contributors would or had to go through. 
 
 UX Writers are not coders. When I made my first contribution, it was overwhelming. But I was fortunate enough to have developer friends who helped me through it. But first-time contributors may not be lucky.
 
-They may not understand how GitHub works. They may have skipped the guidelines. They may have been stuck. With all the spammers out there nobody has time to handhold them.
+They may not understand how GitHub works. With all these spammers nobody has time to help them.
 
-What started as a noble idea has now reduced been to freebie hoarding and spamming event.
+What started as a noble idea has now reduced to freebie hoarding and spamming event.
