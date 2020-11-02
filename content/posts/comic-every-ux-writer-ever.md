@@ -1,6 +1,6 @@
 ---
 title: "Comic: Every UX Writer ever"
-date: 2020-11-02
+date: 2020-11-01
 description: "Everyday hilarious problem that UX Writers experience."
 tags: [comic, uxwriting]
 ---
