@@ -1,7 +1,7 @@
 ---
 title: "Comic: Making of a UX Writing Supervillain"
 date: 2020-11-02
-description: "Many believe that UX writing is easy and it takes a few minutes to write a text for a small button. However, the creation of a powerful phrase can take hours."
+description: "Many believe that UX Writing is easy and it takes a few minutes to write a text for a small button. However, the creation of a powerful phrase can take hours."
 tags: [comic, uxwriting]
 ---
 
