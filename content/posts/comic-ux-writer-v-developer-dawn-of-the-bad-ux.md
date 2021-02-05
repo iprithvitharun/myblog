@@ -11,6 +11,6 @@ When I started my career a few years ago, some developers, even designers, thoug
 
 It was one of those conversations that inspired this comic. 
 
-UX Writers spend days, sometimes weeks, perfecting an error message by planning, researching, and experimenting with microcopies that guide users consciously or otherwise. To ignore UX Writing is to ignore the only human connection in the app — language. 
+UX Writers spend days, sometimes weeks, perfecting an error message by planning, researching, and experimenting with microcopies that guide users consciously or otherwise. To ignore UX Writing is to ignore the only human connection in the app — language.
 
-![Making of a UX Writing Supervillain](/uxw-v-dev.png)
+![UX Writer V Developer: Dawn of the bad UX](/uxw-v-dev.png)
