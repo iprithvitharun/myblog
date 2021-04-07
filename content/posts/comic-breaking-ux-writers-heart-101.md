@@ -1,6 +1,6 @@
 ---
 title: "Comic: Breaking UX Writer’s heart 101"
-date: 2021-04-08
+date: 2021-04-07
 description: "Designs change well after the UX Writer has started working on the microcopies. It can be frustrating. Tbh, I’ve done this to designers and developers.."
 tags: [comic, uxwriting]
 ---
