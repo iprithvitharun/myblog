@@ -17,5 +17,3 @@ Outside work, I am an avid gamer and occasionally contribute to Open Source writ
 Fundamentally, I'm passionate about connecting people with technology in the most obvious and unobtrusive way. I've worked on multiple side-projects like,
 
 **[GoTo Tab](https://www.producthunt.com/posts/goto-tab-1)** - A browser extension with over 7K active users that helps manage, search and jump to the tab on a tap of a shortcut. Being a tab-junkie myself, this was developed out of frustration as none of the extensions out there solved it. So, we ([Praveen](https://www.linkedin.com/in/praveen-kumar-5b656090/), [Pradeep](https://www.linkedin.com/in/pradesep6/) and I) decided to solve it the way we see the future.
-
-**[remoteapps.today](https://www.remoteapps.today/)** - A static site with a list of all the best apps in multiple categories. Every app on the list is personally used by us extensively and has a FREE plan. Only the worthy have passed. Made on a boring weekend with [Pradeep](https://www.linkedin.com/in/pradesep6/).
