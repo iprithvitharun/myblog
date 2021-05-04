@@ -9,7 +9,7 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="auto"
 	featherIconsCDN=true
-	subtitle = "👋 Hello. I'm a writer who designs. I strive to create clear, obvious, and humane user experience through microcopies. Currently, I’m at [Whatfix](https://open.spotify.com/playlist/0qakZCBgqW7SFHPWjpHDbj?si=_sytoc1CQxeXUrLYio3iEg), Bangalore focused on creating and managing UX that scale to global products. This website is a home for things I’ve tried and how I tried."
+	subtitle = "👋 Hello. I'm a writer who designs. I strive to create clear, obvious, and humane user experience through microcopies. Currently, I’m at [Postman](https://www.postman.com/), Bangalore focused on creating and managing UX that scale to global products. This website is a home for things I’ve tried and how I tried."
 
 [[params.social]]
 name = "LinkedIn"
