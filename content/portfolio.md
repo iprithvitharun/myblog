@@ -3,6 +3,12 @@ title = "Portfolio"
 description = "Works I have done so far in my career."
 date = "2020-07-24"
 +++
+
+### Feature and page description
+
+The descriptions used throughout this page had several inconsistencies and didn't convey the capabilities of the feature. These inconsistencies impacted the feature adoption.
+
+![token-scanner-page](/token-scanner-page.png)
 ### Confirmation popup
 
 Though I detest confirmation popups I do believe in using them effectively based on severity and complexity of user action. 
@@ -34,4 +40,4 @@ To ensure continuity, I used the same word "User Action" that led to the creatio
 
 Feedback from customers showed that they were not able to resolve their mistake using the error message. The new error message involved collaborating with the developers and a complete rework.
 
-![error-variable-custom](/error-variable-custom.png)
+![error-variable-custom](/error-variable-custom-updated.png)
