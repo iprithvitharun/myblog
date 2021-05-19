@@ -3,7 +3,11 @@ title = "Portfolio"
 description = "Works I have done so far in my career."
 date = "2020-07-24"
 +++
+### Email preheaders
 
+Oftentimes, preheaders in product emails are overlooked or written by the developers or left empty. The preheader text displays in the inbox after the subject line to give the reader a better idea of whether or not to open an email. By including preheader text in the email header, we can use the opportunity to further entice your users into opening your email.
+
+![preheaders-email](/preheaders-email.png)
 ### Feature and page description
 
 The descriptions used throughout this page had several inconsistencies and didn't convey the capabilities of the feature. These inconsistencies impacted the feature adoption.
