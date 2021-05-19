@@ -3,6 +3,14 @@ title = "Portfolio"
 description = "Works I have done so far in my career."
 date = "2020-07-24"
 +++
+
+### Fast.com content redesign case study
+
+In this case study, I have described my process of designing the Fast.com site. Through a mix of user interviews, iterative writing, and testing, my goal was to make the site simpler and easier even for non-technical users. 
+
+**Note:** I have zero knowledge of the business and user problems that the organization was trying to solve and what might have influenced their content decisions. So, please consider the case study as my humble opinion.
+
+[Read Fast.com content redesign case study](https://docs.google.com/document/d/1ctf71c-baUQ_BXTWEkpuFVVTPFLOA1uSZm6G9UuR_wc/edit?usp=sharing).
 ### Email preheaders
 
 Oftentimes, preheaders in product emails are overlooked or written by the developers or left empty. The preheader text displays in the inbox after the subject line to give the reader a better idea of whether or not to open an email. By including preheader text in the email header, we can use the opportunity to further entice your users into opening your email.
