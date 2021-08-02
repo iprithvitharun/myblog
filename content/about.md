@@ -6,9 +6,9 @@ date = "2020-07-23"
 
 ![Profile pic](/dp_trans_wide.png)
 
-Over the last 5 years, I’ve been improving user experiences through words in the form of Technical and UX Writing. Currently, I’m at Whatfix building experiences used by some of the most prominent Fortune 500 companies every day. 
+Over the last 5 years, I’ve been improving user experiences through words in the form of Technical and UX Writing. Currently, I’m at Postman building experiences for developers. 
 
-Previously, I was at Zoho where I started my career as a Technical Writer for Zoho Finance Suite.
+Previously, I worked at Whatfix and Zoho.
 
 Outside work, I am an avid gamer and occasionally contribute to Open Source writing projects on [GitHub](https://github.com/iprithvitharun/).
 
