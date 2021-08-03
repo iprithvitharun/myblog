@@ -10,7 +10,7 @@ Over the last 5 years, I’ve been improving user experiences through words in t
 
 Previously, I worked at Whatfix and Zoho.
 
-Outside work, I am an avid gamer and occasionally contribute to Open Source writing projects on [GitHub](https://github.com/iprithvitharun/).
+Outside work, I am an avid gamer and occasionally contribute to open source writing projects on [GitHub](https://github.com/iprithvitharun/).
 
 > > I believe in moving at a sustainable pace and fixing what’s broken.
 
