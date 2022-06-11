@@ -12,6 +12,11 @@ pygmentscodefencesguesssyntax = true
 	subtitle = "👋 Hello. I'm a writer who designs. I strive to create clear, obvious, and humane user experience through microcopies. Currently, I’m at [Postman](https://www.postman.com/), Bangalore focused on creating and managing UX that scale to global products. This website is a home for things I’ve tried and how I tried."
 
 [[params.social]]
+name = "YouTube"
+icon = "youtube"
+url = "https://www.youtube.com/user/ptrithu8"
+
+[[params.social]]
 name = "LinkedIn"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/prithvi-tharun/"
